@@ -4,6 +4,8 @@ Sigma² is a shameless through hole ripoff of the popular Make Noise Maths euror
 on the basis of voxmachina sigma. This repository includes the files for a slimmer version of 
 voxmachina sigma, as well as sigma².
 
+<img src="images/sigma2_panel.JPG" width="20%" height="20%"> <img src="images/sigma2_control.JPG" width="20%" height="20%"> <img src="images/sigma_main.JPG" width="18%" height="18%">
+
 ## Disclaimer
 This project is not involved with make noise. 
 In fact, to make sure I am not breaching intellectual 
@@ -20,7 +22,6 @@ The build is very challenging (definitely the biggest through-hole build I have 
 and the PCB is annoying to build with lots of parts tightly together, but it is the best I could
 do without increasing HP or using smd parts. 
 TODO:
-- upload pictures
 - think about easier build
 - better v/oct tracking
 
