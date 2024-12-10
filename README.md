@@ -4,7 +4,7 @@ Sigma² is a shameless through hole ripoff of the popular Make Noise Maths euror
 on the basis of voxmachina sigma. This repository includes the files for a slimmer version of 
 voxmachina sigma, as well as sigma².
 
-<img src="images/sigma2_panel.JPG" width="20%" height="20%"> <img src="images/sigma2_control.JPG" width="20%" height="20%"> <img src="images/sigma_main.JPG" width="18%" height="18%">
+<img src="images/sigma2_panel.JPG" width="30%" height="30%"> <img src="images/sigma2_control.JPG" width="30%" height="30%"> <img src="images/sigma_main.JPG" width="15%" height="15%">
 
 ## Disclaimer
 This project is not involved with make noise. 
