@@ -16,7 +16,7 @@ under MIT license. Sigma and Maths are both based on a pretty old design, the se
 ## Status
 this works, I have built both sigma and sigma², both of my units work fine-ish.
 The "volt per octave" tuning could be improved and I am open to suggestions.
-The build is very challenging (definitely the biggest through-hole build i have ever done)
+The build is very challenging (definitely the biggest through-hole build I have ever done)
 and the PCB is annoying to build with lots of parts tightly together, but it is the best I could
 do without increasing HP or using smd parts. 
 TODO:
@@ -47,3 +47,5 @@ If you want to build sigma^2, you need:
 - 1x sigma² panel pcb
 - 2x parts from sigma main BOM
 - 1x parts from sigma² control BOM
+
+  Github user @K-Teck-Dave let me know that if you have trouble sourcing A50k pots or have B50k lying around those will work fine instead too :)
