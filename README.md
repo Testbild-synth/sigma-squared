@@ -49,4 +49,14 @@ If you want to build sigma^2, you need:
 - 2x parts from sigma main BOM
 - 1x parts from sigma² control BOM
 
-  Github user @K-Teck-Dave let me know that if you have trouble sourcing A50k pots or have B50k lying around those will work fine instead too :)
+Github user @K-Teck-Dave let me know that if you have trouble sourcing A50k pots or have B50k lying around those will work fine instead too :)
+If you have a hard time sourcing the 1N5232 Zener diode any 5.6V zener should work.
+
+# Build process
+
+Main pcb is relatively easy and straight forward.
+Control pcb sadly is has a few tight places that are not fun to solder.
+Take care with the resistors that are between the jacks specifically.
+Since I was asked the print on the LED footprint sadly is not that clear. 
+**All LEDs face left when viewing the panel. Anode (round part) left, Cathode right.**
+
