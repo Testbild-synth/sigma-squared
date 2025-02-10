@@ -60,3 +60,14 @@ Take care with the resistors that are between the jacks specifically.
 Since I was asked the print on the LED footprint sadly is not that clear. 
 **All LEDs face left when viewing the panel. Anode (round part) left, Cathode right.**
 
+## Tuning the trimpots
+
+There are several trimpots on the module. The ones on sigma main pcb relate to volt per octave tracking.
+For these, refer to [voxmachina's video](https://www.youtube.com/watch?v=iQzIH3weC9s) but beware that
+it is not likely to track more than 2 octaves either way.
+The two trimpots on the main pcb set voltage for channel 2 and 3.
+On maths these are normalled (when no input is given) to 10v and 5v, on sigma squared you can
+adjust them from 0-12V using the trimpot. measure the middle leg against the ground leg to
+tune the setting to your liking.
+
+
